@@ -1,5 +1,6 @@
 {
     "name": "DOLLARS Extension",
+    "description": "A simple Chrome extension made for DOLLARS chatroom.",
     "version": "1.0",
     "manifest_version": 2,
   "icons": {
@@ -14,7 +15,7 @@
     "content_scripts": [
         { 
 "matches":["https://drrr.com/room/*"], 
-"js": ["jquery.js","index.js"]
+"js": ["jquery.js","content.js"]
 }
     ]
 }
