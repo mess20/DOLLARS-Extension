@@ -4,7 +4,7 @@
 # 安装方法
 ## 下载
 
-① （电脑端）前往[页面](https://github.com/mess20/Extension) > 点击 code > 点击 download zip 下载压缩文件
+① （电脑端）前往[页面](https://github.com/mess20/DOLLARS-Extension) > 点击 code > 点击 download zip 下载压缩文件
 
 ② 直接点击[链接](https://codeload.github.com/mess20/DOLLARS-Extension/zip/refs/heads/main)下载压缩文件
 
