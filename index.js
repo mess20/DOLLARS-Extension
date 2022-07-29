@@ -21,11 +21,11 @@
 var mobile_flag = isMobile();
 if (mobile_flag) {
 	var script = document.createElement('script');
-script.src = "https://mess20.github.io/Extension/easychat.js";
+script.src = "https://mess20.github.io/easychat/easychat.js";
 $('head')[0].appendChild(script);
 }else{
 var script = document.createElement('script');
-script.src = "https://mess20.github.io/Extension/easychat(pc).js";
+script.src = "https://mess20.github.io/easychat/easychat(pc).js";
 $('head')[0].appendChild(script);
 }
 
