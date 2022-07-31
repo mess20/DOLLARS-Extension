@@ -14,7 +14,7 @@
   },
     "content_scripts": [
         { 
-"matches":["https://drrr.com/*"], 
+"matches":["https://drrr.com/room/*"], 
 "js": ["jquery.js","content.js"]
 }
     ]
