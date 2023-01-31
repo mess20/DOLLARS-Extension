@@ -1,7 +1,7 @@
 {
     "name": "DOLLARS Extension",
     "description": "A simple Chrome extension made for DOLLARS chatroom.",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 2,
   "icons": {
 },
