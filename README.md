@@ -2,6 +2,9 @@
 用于DOLLARS聊天室的简单Chrome插件。
 
 # 安装方法
+
+以下方法仅供参考。
+
 ## 下载
 
 ① （电脑端）前往[页面](https://github.com/mess20/DOLLARS-Extension) > 点击 code > 点击 download zip 下载压缩文件
