@@ -13,9 +13,16 @@
 
 ② 直接点击[链接](https://codeload.github.com/mess20/DOLLARS-Extension/zip/refs/heads/main)下载压缩文件
 
+③ 百度网盘
+
+链接:https://pan.baidu.com/s/1Jksj9KzMiFRKjOCTgpvXHw 
+
+提取码:8185
+
 ## 安装
 
-进入拓展程序 > 开启开发者模式 > 点击 load > 选择已下载至本地的拓展文件
+- 第一种方法：将下载至本地的文件解压 > 进入拓展程序 > 开启开发者模式 > 点击 load > 选择解压后的文件
+- 第二种方法（电脑端）：将解压后的文件夹拖至拓展程序（开发者模式）页面
 
 # 使用说明
 - 文件夹中的 README.md 文件可以删去。
