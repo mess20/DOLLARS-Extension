@@ -1,7 +1,7 @@
 # 介绍
 用于DOLLARS聊天室的简单Chrome插件。
 
-关于插件的具体说明请见 https://github.com/mess20/Easychat#readme
+关于插件功能的具体说明请见 https://github.com/mess20/Easychat#readme
 
 # 安装方法
 
